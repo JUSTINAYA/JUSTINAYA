@@ -9,7 +9,8 @@
     <a href="https://github.com/JUSTINAYA/JUSTINAYA/network/members"><img src="https://img.shields.io/github/forks/JUSTINAYA/JUSTINAYA.svg?color=blue&logo=github">
 </p>
 <!--   my-header-img -->
-![](./src/header_.png)
+
+<img src="/src/header_.png" alt="header_.png"/>
 
 <!--   my-ticker -->    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+我是+JUSTINAYA;+欢迎来到我的主页!;还是在校大学生;Always+learning+new+things+;Machine+learning+enthusiast+)
