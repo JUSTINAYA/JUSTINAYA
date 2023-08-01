@@ -8,13 +8,11 @@
     <a href="https://github.com/JUSTINAYA/JUSTINAYA/graphs/contributors"><img src="https://img.shields.io/github/contributors/JUSTINAYA/JUSTINAYA?color=blue"></a>
     <a href="https://github.com/JUSTINAYA/JUSTINAYA/network/members"><img src="https://img.shields.io/github/forks/JUSTINAYA/JUSTINAYA.svg?color=blue&logo=github">
 </p>
-
 <!--   my-header-img -->
 ![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Andrej+Marinchenko;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+👋,+我是+JUSTINAYA;+欢迎来到我的主页!;还是在校大学生;Always+learning+new+things+;Machine+learning+enthusiast+)
 
 <!--   my-skils -->
 
@@ -28,27 +26,22 @@
 | **Tools & Platform**  | ![Pytorch](https://img.shields.io/badge/Pytorch-F9AB00?style=for-the-badge&logo=Pytorch&color=525252) ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-27338e?style=for-the-badge&logo=PaddlePaddle&logoColor=white) |
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-[![JUSTINAYA's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JUSTINAYA&theme=github-compact)](https://github.com/JUSTINAYA/github-readme-activity-graph)
 
-| .                                                            | .                                                            |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                           我的状况                           |                           使用语言                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![JUSTINAYA's github stats](https://github-readme-stats.vercel.app/api?username=JUSTINAYA&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTINAYA&theme=radical&layout=compact) |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA"></img>
+<img class="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA"></img>
 
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 
 <!--   grid-snake -->
-![](https://github.com/JUSTINAYA/JUSTINAYA/blob/output/github-contribution-grid-snake.svg)
 
 <!--   skyline 
 <a href="https://skyline.github.com/JUSTINAYA/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
 <!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=JUSTINAYA" width="auto"></img>
 
 
 
@@ -82,20 +75,11 @@ graph TD;
 
 
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JUSTINAYA/JUSTINAYA&type=Date)](https://star-history.com/#JUSTINAYA/JUSTINAYA&Date)
-
-
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@JUSTINAYA.github.readme)
-</br>
-
-[MIT](LICENSE)
-
 
 </p>
 
