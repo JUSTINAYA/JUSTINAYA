@@ -30,7 +30,7 @@
 
 |                           我的状况                           |                           使用语言                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![JUSTINAYA's github stats](https://github-readme-stats.vercel.app/api?username=JUSTINAYA&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTINAYA&theme=radical&layout=compact) |
+| ![JUSTINAYA's github stats](https://github-readme-stats.vercel.app/api?username=JUSTINAYA&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTINAYA&theme=radical&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 
 <img class="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA"></img>
 
