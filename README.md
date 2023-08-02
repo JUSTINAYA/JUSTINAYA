@@ -34,7 +34,9 @@
 
 
 
-<img class="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA"></img>
+<div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA" />
+</div>
 
 
 
