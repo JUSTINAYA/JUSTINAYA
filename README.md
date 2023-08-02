@@ -10,7 +10,7 @@
 </p>
 <!--   my-header-img -->
 
-<img src="/src/header_.png" alt="header_.png"/>
+<img src="/src/aya.png" alt="aya.png"/>
 
 <!--   my-ticker -->    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hello+👋,+我是+文文的短发;+欢迎来到我的主页!;还是在校大学生;Always+learning+new+things+;Machine+learning+enthusiast+)
