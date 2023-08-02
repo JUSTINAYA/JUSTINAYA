@@ -57,14 +57,6 @@ graph TD;
     machine-learning-->Deployment;
 ```
 
- 
-
-
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
-<p align="center"> 
 
 
 #### Thanks for visiting :heart:
