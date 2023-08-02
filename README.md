@@ -32,49 +32,27 @@
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![JUSTINAYA's github stats](https://github-readme-stats.vercel.app/api?username=JUSTINAYA&show_icons=true&theme=radical&include_all_commits=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUSTINAYA&theme=radical&layout=compact&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) |
 
+
+
 <img class="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=JUSTINAYA"></img>
-
-
-
-<!--   grid-snake -->
-
-<!--   skyline 
-<a href="https://skyline.github.com/JUSTINAYA/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  2d history skills -->
-
-
-
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
 
 
 
 #### Thanks for visiting :heart:
 
+
+
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/JUSTINAYA/count.svg">  
 
 
-
-
-
-
 ### Profile Views
+
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@JUSTINAYA.github.readme)
 
-</p>
+
+![](https://count.getloli.com/get/@JUSTINAYA.github.readme)
 
 
 
